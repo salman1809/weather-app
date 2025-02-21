@@ -51,3 +51,5 @@ Weather apps can be designed for smartphones, tablets, or websites, and they mig
 
 
 OUTPUT:
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/e21b8b87-ad9f-49ed-8883-29684364648d" />
+
